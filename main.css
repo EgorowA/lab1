@@ -1,0 +1,26 @@
+.hello{
+    font-size: 36pt;
+    font-weight: bold;
+}
+
+.my_name{
+    text-align: center;
+    font-size: 48pt;
+    font-weight: bold;
+}
+
+.tz{
+    text-align: end;
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+.text{
+    font-size: 14pt;
+}
+
+.tachka{
+    display: block;
+    margin: auto;
+    height: 300px;
+}
