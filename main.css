@@ -1,12 +1,26 @@
-table{
-    
+.hello{
+    font-size: 36pt;
+    font-weight: bold;
 }
 
-th, th, td{
-    border: 1px solid black;
+.my_name{
+    text-align: center;
+    font-size: 48pt;
+    font-weight: bold;
 }
 
-.kostik{
-    border: 0px solid white;
-    color: white;
+.tz{
+    text-align: end;
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+.text{
+    font-size: 14pt;
+}
+
+.tachka{
+    display: block;
+    margin: auto;
+    height: 300px;
 }
